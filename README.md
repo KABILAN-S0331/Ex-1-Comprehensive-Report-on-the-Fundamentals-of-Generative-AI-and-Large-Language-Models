@@ -89,11 +89,5 @@ Output:
 ![GenAI_LLM_Complete_Report_page-0022](https://github.com/user-attachments/assets/d2e39b86-b744-4575-8296-413b3a93f70e)
 
 
-
-
-
-
-
-
-
 Result:
+Thus a comprehensive report has been generated for the given topics.
